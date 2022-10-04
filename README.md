@@ -8,8 +8,10 @@ conda create --name msdial
 
 ## Install converter and libraries
 
-`pip install pymsfilereader`
-`pip install comtypes`
+```
+pip install pymsfilereader
+pip install comtypes
+```
 or available at http://www.lfd.uci.edu/~gohlke/pythonlibs/ and then `pip install comtype-package.whl`
 
 ## Requirements
