@@ -1,13 +1,7 @@
 # MSDIAL-tutorial
 A workflow for MSDIAL
 
-# Create conda environment
-```
-conda create --name msdial
-```
-
 ## Install converter and libraries
-
 ```
 pip install pymsfilereader
 ```
