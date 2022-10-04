@@ -10,10 +10,7 @@ conda create --name msdial
 
 ```
 pip install pymsfilereader
-pip install comtypes
 ```
-or available at http://www.lfd.uci.edu/~gohlke/pythonlibs/ and then `pip install comtype-package.whl`
-
 ## Requirements
 
 * MSFileReader 3.1 is 64-bits only, MSFileReader 3.0 is 32 and 64-bits.
