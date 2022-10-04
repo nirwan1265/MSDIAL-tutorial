@@ -6,7 +6,7 @@ A workflow for MSDIAL
 conda create --name msdial
 ```
 
-## How to install
+## Install converter 
 
 `pip install pymsfilereader`
 
